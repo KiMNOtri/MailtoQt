@@ -1,0 +1,36 @@
+# Mailto Client Updatelog
+
+- Version 1.2.5
+
+* 【修正】若干已知问题修正
+
+- Version 1.2.3
+对应平台：Windows / macOS
+
+* 【修正】Windows 平台上的历史消息显示的编码问题
+
+- Version 1.2.2
+对应平台：Windows
+
+* 【修正】Windows 平台上的界面显示效果
+
+- Version 1.2.1
+对应平台：Windows / macOS
+
+* 【修正】窗口的文字显示有误
+
+- Version 1.2
+对应平台：macOS
+
+* 【追加】聊天历史记录查看
+* 【追加】服务器状态通知
+* 【追加】全新的联系人与消息界面
+* 【修正】若干已知问题修正
+
+
+- Version 1.1
+对应平台：macOS
+
+* 【修正】修复了在部分状况无法连接至服务器的问题
+* 【修正】在存在多个应用程序实例下的通信问题
+* 【修正】调整了 Windows 平台的托盘图标显示样式

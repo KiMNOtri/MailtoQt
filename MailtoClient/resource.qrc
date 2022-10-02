@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/software/pic">
+        <file>iconTooltip.png</file>
+        <file>iconTooltipEmpty.png</file>
+        <file>trayicon_platform_windows.png</file>
+        <file>people_error.png</file>
+        <file>people_offline.png</file>
+        <file>people_online.png</file>
+        <file>people_waiting.png</file>
+        <file>default_avator.png</file>
+    </qresource>
+</RCC>
